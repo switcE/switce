@@ -1,3 +1,2 @@
-AAAAAA
-# HEllo
-I CoDe in C,C++,PYthon,c#,java
+# Hello
+i do low level programming
